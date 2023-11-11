@@ -2,9 +2,11 @@
 
 
 `Objective`:
+
 Build a machine learning model to identify the breed of a dog from an image.
 
 `Data`:
+
 *A dataset containing over 10,000 images of dogs from 120 different breeds.*
 
 *Each image is labeled with the breed of the dog in the image.*
